@@ -1,4 +1,4 @@
-#objective: CreateRAG with openAI
+#objective: CreateRAG with LlamaIndex
 
 import os
 from dotenv import load_dotenv
